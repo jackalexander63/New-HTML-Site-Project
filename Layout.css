@@ -1,0 +1,15 @@
+#coolTitle { 
+    background-color: lightskyblue;
+}
+#coolSection {
+    display: flex
+}
+#coolText {
+    flex: 4
+}
+.coolButton {
+    flex: 1
+}
+.coolButton:hover{
+    background: lightskyblue;
+}
